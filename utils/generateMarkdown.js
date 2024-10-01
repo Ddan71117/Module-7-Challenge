@@ -79,6 +79,8 @@ ${data.test}
 
 ${data.cont}\n\n
 
+Xpert Learning Assistant provided invaluable support with coding concepts, debugging, and resources throughout my project development.
+
 ## Questions
 
 https://github.com/${data.github}\n\n
