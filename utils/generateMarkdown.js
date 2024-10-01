@@ -77,7 +77,7 @@ ${data.test}
 
 ## Contributing
 
-${data.cont}
+${data.cont}\n\n
 
 ## Questions
 
